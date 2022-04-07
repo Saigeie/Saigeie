@@ -1,6 +1,6 @@
 # Hey there, Im [Saige]() 👋
 
-### I'm a full stack developer that is currently focusing on my discord bot [helper.solar!](https://github.com/Saigeie/Helper)
+### I'm a full stack developer that is currently focusing on my discord bot [Azalea](https://github.com/Saigeie/Azalea)
 
 ### You can view the rest of my projects on my [profile](https://github.com/Saigeie)! Almost everything i work on is open source and im always up for suggestions
 
