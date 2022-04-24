@@ -1,7 +1,7 @@
 # Hey there, Im [Saige]() 👋
 
 ### I'm a full stack developer that is currently focusing on my discord bot [Azalea!](https://github.com/Saigeie/Azalea)
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nodejs,mongodb,figma,express)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,ts,react,nodejs,mongodb,figma,express,nextjs,ae,redis)](https://skillicons.dev)
 
 <hr>
 
